@@ -1,0 +1,14 @@
+name = "almanac_case"
+
+[[lean_lib]]
+name = "AlmanacDefs"
+
+[[lean_lib]]
+name = "AlmanacStatement"
+
+[[lean_lib]]
+name = "AlmanacChallenge"
+
+[[lean_lib]]
+name = "AlmanacSolution"
+
